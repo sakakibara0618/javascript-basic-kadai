@@ -1,5 +1,5 @@
 const double = (price) => {
-    return price * 2;
+    return price ** 2;
 }
 
-console.log(double(50));
+console.log(double(10));
